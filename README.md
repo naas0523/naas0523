@@ -1,16 +1,34 @@
-## Hi there 👋
+# 안녕하세여 슬픔이 개발일기에 오신걸 환영해요💙
 
-<!--
-**naas0523/naas0523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 저는 개발프로그램을 배우고 있는 대학생입니다🐥
 
-Here are some ideas to get you started:
+업로드는 **주 1회** 일것 같습니다
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+처음이라서 많이 서툴고 뚱땅뚱땅 하겠지만 잘 봐주세요;-)
+
+### 이름이 왜 슬픔이 인가? 
+대학교 룸메들이 지어준 별명인데, 이유를 알면 웃길거예요
+
+기숙사방에서 매일 화장도 안 한 모습이 슬픔이를 닮기도하고
+
+1층이 책생이고 2층이 침대인 일체형 침대인데 침대 난간에 담요를 걸어서 커튼을 만들어서 혼자 게임하고 있어서 음침하다고 지어줬어요^_~
+
+### 저의 MBTI는?
+
+INFP입니다 밖에 나가는것이 좋긴한데 기가 잘 빨리고 한번 나가면 처리해야할 일을 다 하고 오는 타입입니다.
+
+그래서 가끔 몇개씩 빼먹고 옵니다 (자랑이 아니긴하지만..)
+
+### 좋아하는 음식은?
+
+자극적이고 몸에 안좋은 음식은 거의 좋아합니다.
+
+그래서 최근사이에 살이 많이 쪄서 요즘 저의 중심 키워드는 **다이어트** 입니다
+
+예상이 되는 키워드죠? 히히
+
+## 그럼 저의 소개는 여기까지~
+## 저의 자세한 일상을 보고싶으면 [슬픔이의 일기장]
+https://blog.naver.com/naas4844/223925451400
+
+여기로 와주세요~~
